@@ -1,0 +1,276 @@
+{
+  "zh-CN": [
+    {
+      "name": "更新日志",
+      "path": "/changelog"
+    },
+    {
+      "name": "开发指南",
+      "children": [
+        {
+          "path": "/installation",
+          "name": "安装"
+        },
+        {
+          "path": "/quickstart",
+          "name": "快速上手"
+        }
+      ]
+    },
+    {
+      "name": "组件",
+      "groups": [
+        {
+          "groupName": "Basic",
+          "list": [
+            {
+              "path": "/button",
+              "title": "Button 按钮"
+            }
+          ]
+        },
+        {
+          "groupName": "Form",
+          "list": [
+            {
+              "path": "/addr",
+              "title": "Addr 省市区三级联动"
+            },
+            {
+              "path": "/radio",
+              "title": "Radio 单选框"
+            },
+            {
+              "path": "/checkbox",
+              "title": "Checkbox 多选框"
+            },
+            {
+              "path": "/input",
+              "title": "Input 输入框"
+            },
+            {
+              "path": "/select",
+              "title": "Select 选择器"
+            },
+            {
+              "path": "/select-great",
+              "title": "SelectGreat 选择器"
+            },
+            {
+              "path": "/date-picker",
+              "title": "DatePicker 日期选择器"
+            },
+            {
+              "path": "/upload",
+              "title": "Upload 上传"
+            },
+            {
+              "path": "/form",
+              "title": "Form 表单"
+            }
+          ]
+        },
+        {
+          "groupName": "Data",
+          "list": [
+            {
+              "path": "/table",
+              "title": "Table 表格"
+            },
+            {
+              "path": "/tablelr",
+              "title": "Tablelr 左右表格"
+            },
+            {
+              "path": "/pagination",
+              "title": "Pagination 分页"
+            }
+          ]
+        },
+        {
+          "groupName": "Notice",
+          "list": [
+            {
+              "path": "/loading",
+              "title": "Loading 加载"
+            },
+            {
+              "path": "/message",
+              "title": "Message 消息提示"
+            },
+            {
+              "path": "/message-box",
+              "title": "MessageBox 弹框"
+            },
+            {
+              "path": "/notification",
+              "title": "Notification 通知"
+            },
+            {
+              "path": "/icon-loading",
+              "title": "IconLoading 加载图标"
+            }
+          ]
+        },
+        {
+          "groupName": "Others",
+          "list": [
+            {
+              "path": "/scrollbar",
+              "title": "Scrollbar 美化滚动条"
+            },
+            {
+              "path": "/dialog",
+              "title": "Dialog 对话框"
+            },
+            {
+              "path": "/tooltip",
+              "title": "Tooltip 文字提示"
+            },
+            {
+              "path": "/popover",
+              "title": "Popover 弹出框"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "en-US": [
+    {
+      "name": "更新日志",
+      "path": "/changelog"
+    },
+    {
+      "name": "开发指南",
+      "children": [
+        {
+          "path": "/installation",
+          "name": "安装"
+        },
+        {
+          "path": "/quickstart",
+          "name": "快速上手"
+        }
+      ]
+    },
+    {
+      "name": "组件",
+      "groups": [
+        {
+          "groupName": "Basic",
+          "list": [
+            {
+              "path": "/button",
+              "title": "Button 按钮"
+            }
+          ]
+        },
+        {
+          "groupName": "Form",
+          "list": [
+            {
+              "path": "/addr",
+              "title": "Addr 省市区三级联动"
+            },
+            {
+              "path": "/radio",
+              "title": "Radio 单选框"
+            },
+            {
+              "path": "/checkbox",
+              "title": "Checkbox 多选框"
+            },
+            {
+              "path": "/input",
+              "title": "Input 输入框"
+            },
+            {
+              "path": "/select",
+              "title": "Select 选择器"
+            },
+            {
+              "path": "/select-great",
+              "title": "SelectGreat 选择器"
+            },
+            {
+              "path": "/date-picker",
+              "title": "DatePicker 日期选择器"
+            },
+            {
+              "path": "/upload",
+              "title": "Upload 上传"
+            },
+            {
+              "path": "/form",
+              "title": "Form 表单"
+            }
+          ]
+        },
+        {
+          "groupName": "Data",
+          "list": [
+            {
+              "path": "/table",
+              "title": "Table 表格"
+            },
+            {
+              "path": "/tablelr",
+              "title": "Tablelr 左右表格"
+            },
+            {
+              "path": "/pagination",
+              "title": "Pagination 分页"
+            }
+          ]
+        },
+        {
+          "groupName": "Notice",
+          "list": [
+            {
+              "path": "/loading",
+              "title": "Loading 加载"
+            },
+            {
+              "path": "/message",
+              "title": "Message 消息提示"
+            },
+            {
+              "path": "/message-box",
+              "title": "MessageBox 弹框"
+            },
+            {
+              "path": "/notification",
+              "title": "Notification 通知"
+            },
+            {
+              "path": "/icon-loading",
+              "title": "IconLoading 加载图标"
+            }
+          ]
+        },
+        {
+          "groupName": "Others",
+          "list": [
+            {
+              "path": "/scrollbar",
+              "title": "Scrollbar 美化滚动条"
+            },
+            {
+              "path": "/dialog",
+              "title": "Dialog 对话框"
+            },
+            {
+              "path": "/tooltip",
+              "title": "Tooltip 文字提示"
+            },
+            {
+              "path": "/popover",
+              "title": "Popover 弹出框"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
